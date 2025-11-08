@@ -64,7 +64,7 @@ Feel free to fork this project and improve it. Pull requests are welcome!
 
 # 📬 Connect with me
 
-- **LinkedIn:** (Add your profile link here)
-- **GitHub:** (Your GitHub profile link)
+- **LinkedIn:** [ritu-raj64](www.linkedin.com/in/ritu-raj64)
+- **GitHub:** [Ritu-Raj64](https://github.com/Ritu-Raj64/)
 
 **⭐ If you like this project, consider giving it a star!**
