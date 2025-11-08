@@ -48,8 +48,8 @@ g++ tic_tac_toe.cpp -o game
 3. First player to make a straight line (row/col/diagonal) wins ✅
 
 # 📌 Preview
-Welcome to Tic Tac Toe Game
 ```
+Welcome to Tic Tac Toe Game
  X | 2 | O
 ---|---|---
  4 | X | 6
@@ -64,7 +64,7 @@ Feel free to fork this project and improve it. Pull requests are welcome!
 
 # 📬 Connect with me
 
-LinkedIn: (Add your profile link here)
-GitHub: (Your GitHub profile link)
+- **LinkedIn:** (Add your profile link here)
+- **GitHub:** (Your GitHub profile link)
 
-* ⭐ If you like this project, consider giving it a star! 
+**⭐ If you like this project, consider giving it a star!**
